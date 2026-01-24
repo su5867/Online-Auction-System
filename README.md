@@ -1,20 +1,61 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Online Auction System – Elite Auctions
 
-# Run and deploy your AI Studio app
+Elite Auctions is a modern **Online Auction System** frontend application built using **React**, **TypeScript**, and **Vite**. The system allows users to browse auction items, view details, and interact with an auction platform through a clean and responsive user interface.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/16Gof5i7d4YGspxVKVokWz0LJ-M4AG84S
+## 📌 Project Overview
 
-## Run Locally
+This project represents the frontend of an online auction platform where users can:
+- View available auction items
+- Check auction details
+- Place bids (UI-level)
+- Register and log in
+- Navigate through a responsive auction interface
 
-**Prerequisites:**  Node.js
+The frontend is designed to integrate seamlessly with a backend API (not included in this repository).
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Features
+
+- User-friendly auction interface
+- Auction item listing
+- Auction detail view
+- Bid placement interface
+- Login and registration UI
+- Responsive design (desktop & mobile)
+- Modular and reusable React components
+- Strong type safety using TypeScript
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- Vite
+- CSS
+
+**Tools**
+- Node.js
+- npm / yarn
+
+---
+
+## 📋 Prerequisites
+
+Ensure the following are installed on your system:
+
+- Node.js (v16 or higher)
+- npm or Yarn
+- Git
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/su5867/Online-Auction-System.git
